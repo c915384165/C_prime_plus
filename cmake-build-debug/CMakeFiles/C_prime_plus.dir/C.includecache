@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mac/CLionProjects/C_prime_plus/chapter_6/chapter6.c
+chapter6.h
+/Users/mac/CLionProjects/C_prime_plus/chapter_6/chapter6.h
+
+/Users/mac/CLionProjects/C_prime_plus/chapter_6/chapter6.h
+stdio.h
+-
+
